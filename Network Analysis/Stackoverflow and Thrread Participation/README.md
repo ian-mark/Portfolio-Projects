@@ -1,6 +1,6 @@
 Final Course Project Description
 ---
-![image]https://venturebeat.com/wp-content/uploads/2018/05/stack-overflow-logo.png?w=1200&strip=all
+![image](https://venturebeat.com/wp-content/uploads/2018/05/stack-overflow-logo.png?w=1200&strip=all)
 Predicting link formation in online settings is one of the most critical tasks data scientists have to deal with. In fact, link formation dynamics help to solve several business problems, such as:
 
 explaining the popularity of products in online marketplaces
