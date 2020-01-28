@@ -40,7 +40,7 @@ Airbnb Vs. Manhattan Hotels
 
 
 Deliverables
-------------
+====
 
 + Copy of the Jupyter notebook
 + Copy of the final chart (.pdf format)
