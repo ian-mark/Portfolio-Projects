@@ -65,7 +65,7 @@ Deliverables
 -------------------------
 
 + Copy of the Jupyter notebook
-+ [Copy of the final chart (.pdf format)] (https://github.com/ian-mark/Projects/blob/master/Data%20Visualisation/Amazon%20and%20Attention/Attention_Visualisation_final.pdf)
++ [Copy of the final chart (.pdf format)](https://github.com/ian-mark/Projects/blob/master/Data%20Visualisation/Amazon%20and%20Attention/Attention_Visualisation_final.pdf)
 
 + Final report with the following:
    - A justification of the critical design decisions against the visualization wheel proposed by Alberto Cairo
