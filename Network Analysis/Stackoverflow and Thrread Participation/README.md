@@ -13,7 +13,7 @@ For this final course project, groups are required to analyze the Stackoverflow 
 
 Data
 ======
-official respository
++ [official dump](https://data.stackexchange.com/stackoverflow/queries)
 
 
 
