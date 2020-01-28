@@ -1,6 +1,8 @@
 Final Course Project Description
----
+================================
 ![image](https://venturebeat.com/wp-content/uploads/2018/05/stack-overflow-logo.png?w=1200&strip=all)
+
+
 Predicting link formation in online settings is one of the most critical tasks data scientists have to deal with. In fact, link formation dynamics help to solve several business problems, such as:
 
 explaining the popularity of products in online marketplaces
@@ -12,16 +14,17 @@ References
 Your textbook 'Networks, Crowds, and Markets' has some chapters that are key to the design and execute the project, such as chapters 3, 4, 19, 20, 21, 23.
 
 Data
-There are several dumps of the Stackoverflow platform:
+======
+There are several repositories of the Stackoverflow platform:
 
-official dump
-Archive dump
-SNAP dump
-Simone's dump (available upon request)
+official respository
+Archive respository
+SNAP respository
+
 Deliverables
-By December 20 (5:00 PM), groups have to upload the following set of materials:
-
-copy of Python scripts and/or the Jupyter notebook
-supporting documentation (.md/.tex format) reporting:
-a description of the netwrok analytics pipeline you have created (including models, metrics, algorithms, etc.);
-an effective, concise description of the key insights emerging from the network analyses.
+======
++ Copy of the Jupyter notebook
++ Copy of the final chart (.pdf format)
++ Final report with the following:
+   - A justification of the critical design decisions against the visualization wheel proposed by Alberto Cairo
+   - An effective, concise description of the key insights emerging from the visualisation
