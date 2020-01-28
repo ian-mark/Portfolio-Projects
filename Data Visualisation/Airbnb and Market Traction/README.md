@@ -1,6 +1,6 @@
 Final Course Project Description
 ================================
-![image](https://thedankinvestor.com/wp-content/uploads/2019/09/New-York-City-Skyline.jpg)
+![image](https://img4.cityrealty.com/neo/i/p/mig/airbnb_guide.jpg)
 
 
 
@@ -8,7 +8,7 @@ Digital technologies have transformed the organization and functioning of
 several markets. The pervasive diffusion of mobile devices along with
 computational innovations (e.g. machine learning, deep learning, AI) have
 created the opportunities for new ventures to emerge and challenge the
-leadership of incumbents. Such a process has produced new business models (e.g.,
+leadership of incumbents. Such a process has produced new business models (e.g.
 the 'platform' business model) and new forms of arrangement of economic and
 social exchange (e.g. the sharing economy). 
 
