@@ -1,6 +1,6 @@
 Mid-term project
 ================
-https://content.fortune.com/wp-content/uploads/2016/10/1000638_books_landing-page_hero_desktop.jpeg
+![image](https://content.fortune.com/wp-content/uploads/2016/10/1000638_books_landing-page_hero_desktop.jpeg)
 
 Big, online data have several distinctive attributes. The presence of a
 'timestamp' is certainly one of these attributes. An example of
