@@ -1,6 +1,6 @@
 Final Course Project Description
 ================================
-![image] https://thedankinvestor.com/wp-content/uploads/2019/09/New-York-City-Skyline.jpg
+![image] (https://thedankinvestor.com/wp-content/uploads/2019/09/New-York-City-Skyline.jpg)
 
 Digital technologies have transformed the organization and functioning of
 several markets. The pervasive diffusion of mobile devices along with
