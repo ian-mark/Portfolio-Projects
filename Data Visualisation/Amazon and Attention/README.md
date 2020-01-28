@@ -30,8 +30,8 @@ insights about:
 Sometimes designers have only one chart to serve these multiple
 information needs.
 
-For their mid-term project, groups are supposed to use the Amazon
-dataset [Jeff McCauley](wwww.mccauley.com) has put together, in order to
+For the mid-term project, groups are supposed to use the Amazon
+dataset [Jeff McCauley](wwww.mccauley.com) has put together to
 create a Matplotlib figure with the following characteristics:
 
 + the figure has to fit the A4 layout, landscape orientation;
