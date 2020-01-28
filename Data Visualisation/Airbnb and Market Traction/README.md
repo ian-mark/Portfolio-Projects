@@ -24,8 +24,9 @@ members of the association have the following information needs:
 + which areas of Manhattan (hotels Vs. Airbnb) have been affected the most.
 
 The chart is meant to serve both exploration and presentations goals – the
-leaders of the industry association will use it (i) to understand how
-fierce competition is in their sector; (ii) possibly, to conduct lobbying
+leaders of the industry association will use it to:
++ to understand how fierce competition is in their sector;
++ possibly, to conduct lobbying
 activities/getting a more favorable regulation of the market.
 
 
