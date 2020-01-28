@@ -12,7 +12,7 @@ leadership of incumbents. Such a process has produced new business models (e.g.,
 the 'platform' business model) and new forms of arrangement of economic and
 social exchange (e.g., the sharing economy). 
 
-For their final course project, groups are supposed to create a [Bokeh](https://docs.bokeh.org/en/latest/index.html) dashboard
+For the final course project, groups are supposed to create a [Bokeh](https://docs.bokeh.org/en/latest/index.html) dashboard
 that illustrates the competition between incumbents and challengers of a market.
 
 + Airbnb Vs. Hotels in the NYC borough of Manhattan
