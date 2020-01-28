@@ -54,7 +54,7 @@ speculate about the factors that account for the trajectory in the
 count of ratings; (ii) to update their client with a PowerPoint alike
 slide-show.
 
-Data 
+Data Used
 ====
 
 The data for this project is publicly available at this
