@@ -66,8 +66,8 @@ Deliverables
 
 + Copy of the Jupyter notebook
 + Copy of the final chart (.pdf format)
-+ [Final report](https://github.com/ian-mark/Projects/blob/master/Data%20Visualisation/Amazon%20and%20Attention/Attention_Visualisation_final.pdf) with the following:
++ [Final report](https://github.com/ian-mark/Projects/blob/master/Data%20Visualisation/Amazon%20and%20Attention/Attention_Visualisation_final.pdf):
 
-   - A justification of the critical design decisions against the visualization wheel proposed by Alberto Cairo
+   - A justification of the critical design decisions against the visualization wheel proposed by Alberto Cairo in his book, The Functional Art
    - An effective, concise description of the key insights emerging from the visualisation
 
