@@ -64,8 +64,8 @@ The data for this project is publicly available at this
 Deliverables
 -------------------------
 
-Copy of the Jupyter notebook here
-Final report with the following:
++Copy of the Jupyter notebook here
++Final report with the following:
  - A justification of the critical design decisions against the visualization wheel proposed by Alberto Cairo
 - An effective, concise description of the key insights emerging from the visualisation
 
