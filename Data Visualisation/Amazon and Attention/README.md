@@ -1,4 +1,4 @@
-Mid-term project
+Mid-term Project Description
 ================
 ![image](https://content.fortune.com/wp-content/uploads/2016/10/1000638_books_landing-page_hero_desktop.jpeg)
 
