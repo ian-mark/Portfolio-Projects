@@ -9,10 +9,10 @@ Predicting link formation in online settings is one of the most critical tasks d
 + building recommender systems (see last year final course project)
 + placing ads (e.g., ads concerning job posts) in the right spot so as to maximise the returns and attract more 'customers'
 
-For this final course project, groups are required to analyze the Stackoverflow setting and to address the following question: Why do users participate in certain threads – i.e., reply to certain questions?
+For this final course project, groups are required to analyze the Stackoverflow setting and to address the following question: Why do users participate in certain threads – i.e. reply to certain questions?
 
 
-Data
+Data Used
 ======
 + [official dump](https://data.stackexchange.com/stackoverflow/queries)
 
