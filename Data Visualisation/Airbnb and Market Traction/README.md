@@ -31,9 +31,6 @@ leaders of the industry association will use it to:
 
 Data
 ====
-
-## Airbnb Vs. Manhattan Hotels
-
 + [Airbnb micro-data](http://insideairbnb.com/get-the-data.html)
 + [Location data ](https://github.com/kavgan/OpinRank)
 
