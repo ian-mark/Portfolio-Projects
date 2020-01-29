@@ -12,7 +12,7 @@ For this final course project, groups are required to analyze the Stackoverflow 
 
 Data Used
 ======
-+ [Official Respository](https://data.stackexchange.com/stackoverflow/queries)
++ [SNAP dump](http://snap.stanford.edu/data/sx-stackoverflow.html)
 
 
 
