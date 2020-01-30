@@ -3,7 +3,7 @@ Portfolio Projects
 
 Data Visualisation
 1. Amazon and how our attention evolves over time
-2. The evolution of Airbnb's traction over time
+2. The Progression of Airbnb's Traction in Manhattan, NYC
 
 Network Analytics
-- Why do users participate in Stackoverflow's threads?
+1. Why Do Users Participate in Stackoverflow's Threads?
