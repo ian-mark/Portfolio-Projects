@@ -1,6 +1,3 @@
-# Projects
-Portfolio Projects
-
 ## Data Visualisation
 1. Amazon and how our attention evolves over time
 2. The Progression of Airbnb's Traction in Manhattan, NYC
