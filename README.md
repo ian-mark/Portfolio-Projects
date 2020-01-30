@@ -1,5 +1,5 @@
 ## Data Visualisation
-1. Amazon and how our attention evolves over time
+1. The Development of Attention around Products on Amazon
 2. The Progression of Airbnb's Traction in Manhattan, NYC
 
 ## Network Analytics
